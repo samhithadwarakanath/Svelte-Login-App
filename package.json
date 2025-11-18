@@ -2,6 +2,7 @@
 	"name": "svelte-login",
 	"private": true,
 	"version": "0.0.1",
+	"author": "samhithadwarakanath",
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
