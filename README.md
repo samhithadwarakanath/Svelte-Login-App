@@ -120,6 +120,12 @@ npm run build
 npm run preview
 ```
 
+## SCREEN RECORDING:
+
+
+https://github.com/user-attachments/assets/7693810c-0eb3-48da-ad9b-0d1e8c509c94
+
+
 ## How to customize
 
 - To change OAuth providers, replace the Google-specific endpoints with your provider's flows and adapt the auth exchange logic.
