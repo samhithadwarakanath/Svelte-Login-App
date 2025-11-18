@@ -152,11 +152,4 @@ Working with this project should teach you:
 
 ## Author
 
-- Author: `samhithadwarakanath` (repository owner). If you'd prefer a different name or contact info shown in the project files, tell me and I will update `package.json` and this README.
-
-If you'd like, I can also:
-
-- Add example `.env.example` and a tiny script to bootstrap the local DB.
-- Add a short CONTRIBUTING.md and PR checklist.
-
-Tell me which follow-up you'd like and I will implement it.
+- Author: Samhitha Dwarakanath
